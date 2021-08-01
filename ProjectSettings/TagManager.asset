@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - obstacle
+  - caps
+  - ramptring
+  - is_maching
+  - scoreobj
+  - roadDetector
+  - roadTrigger
+  - RoadDestory
+  - destroyer
+  - road
+  - player1
+  - player2
+  - player3
+  - player4
+  - player5
+  - enmey1
+  - enemy2
+  - enemy4
+  - enemy5
+  - enemy3
+  - colorchangeway
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
